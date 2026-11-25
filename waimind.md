@@ -39,6 +39,44 @@ Package name: `com.waimind.calorielogger`
 
 The free version shows banner ads served by Google AdMob. Premium removes ads. Health data (including Health Connect) is never sold, never used for advertising targeting.
 
+## Screenshots & Demo
+
+### App Screenshots
+
+![Waimind Screenshot 1](/assets/waimind/img_07443f0164a8.jpg)
+*Main screen — AI photo logging*
+
+![Waimind Screenshot 2](/assets/waimind/img_5a8eb766a452.jpg)
+*Barcode scanning*
+
+![Waimind Screenshot 3](/assets/waimind/img_6d48dfa98556.jpg)
+*Daily nutrition targets*
+
+![Waimind Screenshot 4](/assets/waimind/img_b6c3cef9baa4.jpg)
+*Progress tracking*
+
+![Waimind Screenshot 5](/assets/waimind/img_c2c5b725f98c.jpg)
+*AI weekly report*
+
+![Waimind Screenshot 6](/assets/waimind/img_ed5b251b1368.jpg)
+*Privacy settings*
+
+### Demo Videos
+
+<video controls width="100%" poster="/assets/waimind/img_07443f0164a8.jpg">
+  <source src="/assets/waimind/video_02c702a3228c.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Photo logging demo*
+
+<video controls width="100%" poster="/assets/waimind/img_5a8eb766a452.jpg">
+  <source src="/assets/waimind/video_82abdb4c7a6b.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Barcode scanning & manual entry demo*
+
+The free version shows banner ads served by Google AdMob.
+
 ## Contact
 
 - **Support:** support@waimind.com
