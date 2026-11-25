@@ -34,6 +34,13 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Verify assets copied
+        run: |
+          echo "=== Checking _site/assets/waimind ==="
+          ls -la _site/assets/waimind/ || echo "DIRECTORY NOT FOUND"
+          echo "=== File count ==="
+          find _site/assets/waimind -type f | wc -l
+
       - name: Sanity check build output
         run: |
           set -e
