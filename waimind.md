@@ -54,17 +54,21 @@ Health data is never sold and never used for advertising targeting.
 ## Demo Videos
 
 ### Photo Logging Demo
-<video controls width="100%" max-width="600px" poster="/assets/waimind/img_07443f0164a8.jpg" preload="metadata">
+<div class="video-container">
+<video controls preload="metadata" poster="/assets/waimind/img_07443f0164a8.jpg">
   <source src="/assets/waimind/video_02c702a3228c.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 *Photo logging demo*
 
 ### Barcode Scanning & Manual Entry Demo
-<video controls width="100%" max-width="600px" poster="/assets/waimind/img_5a8eb766a452.jpg" preload="metadata">
+<div class="video-container">
+<video controls preload="metadata" poster="/assets/waimind/img_5a8eb766a452.jpg">
   <source src="/assets/waimind/video_82abdb4c7a6b.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 *Barcode scanning & manual entry demo*
 
 ## Download Waimind
@@ -96,3 +100,48 @@ The free version shows banner ads served by Google AdMob. Premium removes ads. H
 2. **This page** — information about the Waimind mobile app.
 
 Both are run by the same independent team.
+
+<style>
+/* Responsive images - mobile friendly */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* Video container - maintains 16:9 aspect ratio */
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 1.5rem auto;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  background: #000;
+}
+
+.video-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #000;
+}
+
+/* Mobile adjustments */
+@media (max-width: 640px) {
+  .video-container {
+    max-width: 100%;
+    border-radius: 0;
+  }
+  
+  img {
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  }
+}
+</style>
