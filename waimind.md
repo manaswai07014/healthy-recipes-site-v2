@@ -55,7 +55,7 @@ Health data is never sold and never used for advertising targeting.
 
 ### Photo Logging Demo
 <div class="video-container">
-<video controls preload="metadata" poster="/assets/waimind/img_07443f0164a8.jpg">
+<video controls preload="auto" playsinline poster="/assets/waimind/img_07443f0164a8.jpg">
   <source src="/assets/waimind/video_02c702a3228c.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -64,7 +64,7 @@ Health data is never sold and never used for advertising targeting.
 
 ### Barcode Scanning & Manual Entry Demo
 <div class="video-container">
-<video controls preload="metadata" poster="/assets/waimind/img_5a8eb766a452.jpg">
+<video controls preload="auto" playsinline poster="/assets/waimind/img_5a8eb766a452.jpg">
   <source src="/assets/waimind/video_82abdb4c7a6b.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
