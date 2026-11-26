@@ -15,14 +15,57 @@ This page is the **official website of the Waimind mobile app**, published by th
 
 ## What Waimind does
 
-- **AI photo logging** — take a photo of a meal; the AI identifies the food and estimates calories and macros.
-- **Barcode scanning** — scan packaged foods and import the nutrition facts automatically.
-- **Manual entry** — log foods and nutrients directly, with quick-add for foods you eat often.
-- **Daily nutrition targets** — calorie goal plus protein, carbs, fat, fiber, sugar and sodium.
-- **Progress tracking** — weight chart (7 / 30 / 90 days), water intake, daily steps and activity burn (Health Connect supported).
-- **AI weekly report** — a short review of your week with practical suggestions.
-- **Offline-first** — your food log lives on your device; cloud backup is optional and off by default.
-- **Privacy by design** — health data is never sold and never used for advertising targeting.
+### 📸 AI Photo Logging
+Take a photo of a meal; the AI identifies the food and estimates calories and macros instantly.
+
+![AI Photo Logging](/assets/waimind/img_07443f0164a8.jpg)
+*Main screen — AI photo logging*
+
+### 📊 Daily Nutrition Targets
+Set calorie goal plus protein, carbs, fat, fiber, sugar and sodium targets. Track your progress visually.
+
+![Daily Nutrition Targets](/assets/waimind/img_6d48dfa98556.jpg)
+*Daily nutrition targets*
+
+### 📦 Barcode Scanning
+Scan packaged foods and import the nutrition facts automatically.
+
+![Barcode Scanning](/assets/waimind/img_5a8eb766a452.jpg)
+*Barcode scanning*
+
+### 📈 Progress Tracking
+Weight chart (7 / 30 / 90 days), water intake, daily steps and activity burn (Health Connect supported).
+
+![Progress Tracking](/assets/waimind/img_b6c3cef9baa4.jpg)
+*Progress tracking*
+
+### 🤖 AI Weekly Report
+A short review of your week with practical suggestions.
+
+![AI Weekly Report](/assets/waimind/img_c2c5b725f98c.jpg)
+*AI weekly report*
+
+### 🔒 Privacy by Design
+Health data is never sold and never used for advertising targeting.
+
+![Privacy Settings](/assets/waimind/img_ed5b251b1368.jpg)
+*Privacy settings*
+
+## Demo Videos
+
+### Photo Logging Demo
+<video controls width="100%" max-width="600px" poster="/assets/waimind/img_07443f0164a8.jpg" preload="metadata">
+  <source src="/assets/waimind/video_02c702a3228c.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Photo logging demo*
+
+### Barcode Scanning & Manual Entry Demo
+<video controls width="100%" max-width="600px" poster="/assets/waimind/img_5a8eb766a452.jpg" preload="metadata">
+  <source src="/assets/waimind/video_82abdb4c7a6b.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Barcode scanning & manual entry demo*
 
 ## Download Waimind
 
@@ -38,44 +81,6 @@ Package name: `com.waimind.calorielogger`
 - **Delete your account and data:** in-app (Settings → Data & Privacy) or the account deletion page
 
 The free version shows banner ads served by Google AdMob. Premium removes ads. Health data (including Health Connect) is never sold, never used for advertising targeting.
-
-## Screenshots & Demo
-
-### App Screenshots
-
-![Waimind Screenshot 1](/assets/waimind/img_07443f0164a8.jpg)
-*Main screen — AI photo logging*
-
-![Waimind Screenshot 2](/assets/waimind/img_5a8eb766a452.jpg)
-*Barcode scanning*
-
-![Waimind Screenshot 3](/assets/waimind/img_6d48dfa98556.jpg)
-*Daily nutrition targets*
-
-![Waimind Screenshot 4](/assets/waimind/img_b6c3cef9baa4.jpg)
-*Progress tracking*
-
-![Waimind Screenshot 5](/assets/waimind/img_c2c5b725f98c.jpg)
-*AI weekly report*
-
-![Waimind Screenshot 6](/assets/waimind/img_ed5b251b1368.jpg)
-*Privacy settings*
-
-### Demo Videos
-
-<video controls width="100%" poster="/assets/waimind/img_07443f0164a8.jpg">
-  <source src="/assets/waimind/video_02c702a3228c.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-*Photo logging demo*
-
-<video controls width="100%" poster="/assets/waimind/img_5a8eb766a452.jpg">
-  <source src="/assets/waimind/video_82abdb4c7a6b.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-*Barcode scanning & manual entry demo*
-
-The free version shows banner ads served by Google AdMob.
 
 ## Contact
 
